@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, My Name Dimas Adi Prasetyo 👋
 
 <!--
 **dimasadiprasetyo/dimasadiprasetyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
