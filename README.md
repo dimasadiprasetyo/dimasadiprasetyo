@@ -1,5 +1,6 @@
-
-![Dimas Adi Prasetyo](./github-header-image.png)
+<div align="center">
+  <img src="github-header-image.png" alt="Coder" width="700" height="200" />
+</div>
 
 <div align="center">
 <img src="dev-working_rounded.gif" alt="Coder" width="200" height="200" />
