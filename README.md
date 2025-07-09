@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="dev-working_rounded.gif" alt="Coder" width="400" height="400" />
+<img src="dev-working_rounded.gif" alt="Coder" width="300" height="300" />
 </div>
 
 ### Hi there <img src="Hi.gif" width="29px"> 
