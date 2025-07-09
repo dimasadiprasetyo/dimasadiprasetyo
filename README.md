@@ -27,7 +27,7 @@ I am Dimas Adi Prasetyo, Fullstack developer, Data Analyst and I also like Data 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 </p>
 <h4 align="center">💻Office</h4>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=flat&logo=google-docs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft_office&logoColor=white"/>
